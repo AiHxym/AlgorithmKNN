@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.Form1.resources
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\bin\Debug\AlgorithmKNN.exe
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\bin\Debug\AlgorithmKNN.pdb
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.exe
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.pdb
+C:\Documents and Settings\Administrator\桌面\DEMO\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.Form2.resources
+C:\Documents and Settings\Administrator\桌面\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.exe
+C:\Documents and Settings\Administrator\桌面\AlgorithmKNN\AlgorithmKNN\obj\x86\Debug\AlgorithmKNN.pdb
